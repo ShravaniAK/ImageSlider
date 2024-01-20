@@ -8,8 +8,13 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-grid-gallery": "^1.0.1-alpha.0",
+    "react-photo-album": "^2.3.0",
+    "react-router-dom": "^6.21.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "swiper": "^11.0.5",
+    "web-vitals": "^2.1.4",
+    "yet-another-react-lightbox": "^3.16.0"
   },
   "scripts": {
     "start": "react-scripts start",

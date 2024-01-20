@@ -1,0 +1,43 @@
+/* Footer Container */
+.footer-container {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Footer Links */
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Footer Link Items */
+.footer-link-items {
+  margin: 1rem;
+}
+
+/* Social Media Section */
+.social-media {
+  background-color: #222;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Social Media Icons */
+.social-icons {
+  margin-top: 10px;
+}
+
+.social-icon-link {
+  color: #fff;
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+/* Additional Styling for Location, Email, and Phone */
+.location-text,
+.email-text,
+.phone-text {
+  color: #fff;
+  margin-top: 5px;
+}
